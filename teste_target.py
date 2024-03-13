@@ -42,6 +42,6 @@
 
 # 5
 # recebe a informação e inverte a string
-str = input("escreva uma palavra: ")
-str_invertida = str[::-1]
-print(str_invertida)
+# str = input("escreva uma palavra: ")
+# str_invertida = str[::-1]
+# print(str_invertida)
